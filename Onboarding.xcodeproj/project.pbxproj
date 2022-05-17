@@ -11,6 +11,7 @@
 		31C5B599283329BC000F7369 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31C5B598283329BC000F7369 /* ContentView.swift */; };
 		31C5B59B283329BF000F7369 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31C5B59A283329BF000F7369 /* Assets.xcassets */; };
 		31C5B59E283329BF000F7369 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31C5B59D283329BF000F7369 /* Preview Assets.xcassets */; };
+		31C5B5A52833358D000F7369 /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31C5B5A42833358D000F7369 /* Onboarding.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		31C5B598283329BC000F7369 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		31C5B59A283329BF000F7369 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31C5B59D283329BF000F7369 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		31C5B5A42833358D000F7369 /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				31C5B596283329BC000F7369 /* OnboardingApp.swift */,
 				31C5B598283329BC000F7369 /* ContentView.swift */,
+				31C5B5A42833358D000F7369 /* Onboarding.swift */,
 				31C5B59A283329BF000F7369 /* Assets.xcassets */,
 				31C5B59C283329BF000F7369 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31C5B5A52833358D000F7369 /* Onboarding.swift in Sources */,
 				31C5B599283329BC000F7369 /* ContentView.swift in Sources */,
 				31C5B597283329BC000F7369 /* OnboardingApp.swift in Sources */,
 			);
